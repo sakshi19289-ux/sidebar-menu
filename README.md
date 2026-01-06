@@ -1,7 +1,3 @@
-# sidebar-menu
-Responsive sidebar menu created using HTML and CSS.
-
-
 # Sidebar Menu 📂
 
 A responsive sidebar menu designed using HTML and CSS, styled with Google Fonts and Font Awesome icons. No JavaScript used.
